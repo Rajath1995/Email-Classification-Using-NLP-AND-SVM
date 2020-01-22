@@ -9,3 +9,5 @@ steps involved
 4. splitting data into train and test.
 5. Applying kernal svm using liner kernal.
 6. Analysing accuracy using Confusion Matrix.
+
+References - Code Heroko and Udemy
